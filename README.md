@@ -10,9 +10,13 @@ An example of this is within a business to generate monthly payslips, your inter
 
 It stands for Representational State Transfer. This is a software architecture that places a set of constraints. 
 
-it transfers a representation of the state of the resource to the requester or endpoint.
+it transfers a representation of the state of the resource to the requester or endpoint. A REST API is an API that conforms to the design principles of the REST, or representational state transfer architectural style. For this reason, REST APIs are sometimes referred to RESTful APIs.
 
 ## Why Learn Rest API with Python?
+
+By using Python and REST APIs, you can retrieve, parse, update, and manipulate the data provided by any web service you're interested in.
+
+
 
 ## Why Python is a Good Language for developing Rest API?
 
