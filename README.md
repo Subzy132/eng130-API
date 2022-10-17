@@ -10,6 +10,8 @@ An example of this is within a business to generate monthly payslips, your inter
 
 It stands for Representational State Transfer. This is a software architecture that places a set of constraints. 
 
+it transfers a representation of the state of the resource to the requester or endpoint.
+
 ## Why Learn Rest API with Python?
 
 ## Why Python is a Good Language for developing Rest API?
